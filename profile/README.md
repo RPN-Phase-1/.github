@@ -1,4 +1,4 @@
-# week1-Enhance-Logic
+# Phase 1: Back End Development
 ![image](https://github.com/user-attachments/assets/c8d1b071-eaac-4f46-b4d9-8b49026fe0f2)
 Selamat datang di phase 1, stage yang menegangkan, dimana kita akan belajar dunia back end dan mengeksplore bermacam-macam hal baru.
 ## Let Him Cook
