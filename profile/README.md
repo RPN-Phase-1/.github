@@ -25,3 +25,7 @@ Phase 1 ini terdiri dari 5 minggu yang mencakup berbagai aspek pengembangan back
 - Node.js Internal Module
 - JSON
 - Logic Nolep (Hospital Interface)
+
+
+
+## [**Bersiaplah untuk memasak chef para nolep** :rocket: :rocket: :rocket: :rocket:](https://github.com/RPN-Phase-1/Week1-Enhance-Logic/blob/main/README.md)
