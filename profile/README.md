@@ -25,6 +25,7 @@ Phase 1 ini terdiri dari 5 minggu yang mencakup berbagai aspek pengembangan back
 ## Back End Fundamental MVC (Week 2)
 - [Back-End Fundamental](https://github.com/RPN-Phase-1/Week2-Backend-Fundamental-MVC/blob/main/study_material/backend-fundamental.md)
 - [Back-End Concept](https://github.com/RPN-Phase-1/Week2-Backend-Fundamental-MVC/blob/main/study_material/backend-cocept.md)
+- [Instaling Linux di Windows](https://github.com/RPN-Phase-1/Week2-Backend-Fundamental-MVC/blob/main/study_material/linux-wsl.md)
 - [Node Js Module](https://github.com/RPN-Phase-1/Week2-Backend-Fundamental-MVC/blob/main/study_material/node-module.md)
 - [Logic Nolep (Encrypt & Decrypt) :exploding_head: ](https://github.com/RPN-Phase-1/Week2-Backend-Fundamental-MVC/blob/main/logic_nolep/ln-encryptDecrypt.md)
 - [Asynchronous Javascript](https://github.com/RPN-Phase-1/Week2-Backend-Fundamental-MVC/blob/main/study_material/asynchronus-js.md)
@@ -32,6 +33,9 @@ Phase 1 ini terdiri dari 5 minggu yang mencakup berbagai aspek pengembangan back
 - [Node Internal Module](https://github.com/RPN-Phase-1/Week2-Backend-Fundamental-MVC/blob/main/study_material/node-internal-module.md)
 - [JSON](https://github.com/RPN-Phase-1/Week2-Backend-Fundamental-MVC/blob/main/study_material/json.md)
 - [Logic Nolep (Hospital Interface) :exploding_head: ](https://github.com/RPN-Phase-1/Week2-Backend-Fundamental-MVC/blob/main/logic_nolep/ln-hospitalInterface.md)
+- [CLI Chalk](https://github.com/RPN-Phase-1/Week2-Backend-Fundamental-MVC/blob/main/study_material/cli-app.md)
+- [Logic Nolep (CLI App Game) :exploding_head: ](https://github.com/RPN-Phase-1/Week2-Backend-Fundamental-MVC/blob/main/logic_nolep/cli-app-game.md)
+- [Logic Nolep (CLI Chess) :exploding_head: ](https://github.com/RPN-Phase-1/Week2-Backend-Fundamental-MVC/blob/main/logic_nolep/cli-chess.md)
 
 ## Back End MVC Database (Week3)
 - [Backend MVC Database](https://github.com/RPN-Phase-1/Week3-Backend-MVC-Database/blob/main/study_material/backend-mvc-database.md)
