@@ -48,15 +48,9 @@ Phase 1 ini terdiri dari 5 minggu yang mencakup berbagai aspek pengembangan back
 
 ## Back End Development API (Week4)
 - [Backend Development API (teorikal) ](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/study_material/backend-dev-api.md)
-- [NoSQL Database](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/study_material/nosql-database.md)
-- [Document Databse MongoDB)](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/study_material/document-db-mongo.md)
-- [Logic Nolep (Online Course MongoDB) :exploding_head: ](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/logic_nolep/ln-online-course-mongodb.md)
-- [Logic Nolep (Address Book) :exploding_head: ](https://github.com/RPN-Phase-1/Week3-Backend-MVC-Database/blob/main/logic_nolep/ln-address-book.md)
-- [Cloud Database](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/study_material/cloud-database.md)
 - [Mongoose (ODM)](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/study_material/mongoose.md)
 - [Prisma (next level ORM)](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/study_material/prisma-next-level-orm.md)
-- [Logic Nolep (Inventory System) :exploding_head: ](https://github.com/RPN-Phase-1/Week3-Backend-MVC-Database/blob/main/study_material/middleware.md)
-- [Logic Nolep (Adress API Book) :exploding_head: ](https://github.com/RPN-Phase-1/Week3-Backend-MVC-Database/blob/main/logic_nolep/ln-address-book-api.md)
+- [Logic Nolep (Inventory System) :exploding_head: ](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/logic_nolep/ln-inventory-sistem.md)
 - [Code Standarization](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/study_material/code-standarization.md)
 - [Inventory System Prisma](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/study_material/prisma-inventory-system.md)
 - [Logging System (Winston)](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/study_material/logging-system.md)
@@ -65,18 +59,19 @@ Phase 1 ini terdiri dari 5 minggu yang mencakup berbagai aspek pengembangan back
 - [Backend Security](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/study_material/backend-scurity.md)
 - [Authentication & Authorization](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/study_material/AuthenAndAuthor.md)
 - [Backend Validation](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/study_material/backend-validation.md)
+- [Logic Nolep (Finishing IS) :exploding_head: ](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/logic_nolep/ln-finishing-IS.md)
+- [Backend Testing](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/study_material/backend-testing.md)
+- [Inventory System Testing](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/study_material/Inventory-testing.md)
+- [Logic Nolep (Inventory System Testing) :exploding_head: ](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/logic_nolep/ln-inventory-testing.md)
+- [Backend Documentation](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/study_material/backend-documentation.md)
+- [Logic Nolep (IS Documentation) :exploding_head: ](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/logic_nolep/ln-isDocumentation.md)
+- [Backend Deployment](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/study_material/backend-deployment.md)
+- [Logic Nolep (Deployment) :exploding_head: ](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/logic_nolep/ln-deployment.md)
+- [Template Engine EJS](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/study_material/template-engine-ejs.md)
+
 
 ## Back End Advance Concept (Week5)
-- [Logic Nolep (Finishing IS) :exploding_head: ](https://github.com/RPN-Phase-1/Week5-Backend-Advance-Concept/blob/main/study_material/week5.md)
-- [Backend Testing](https://github.com/RPN-Phase-1/Week5-Backend-Advance-Concept/blob/main/study_material/backend-testing.md)
-- [Inventory System Testing](https://github.com/RPN-Phase-1/Week5-Backend-Advance-Concept/blob/main/study_material/Inventory-testing.md)
-- [Logic Nolep (Inventory System Testing) :exploding_head: ](https://github.com/RPN-Phase-1/Week5-Backend-Advance-Concept/blob/main/logic_nolep/ln-inventory-testing.md)
-- [Backend Documentation](https://github.com/RPN-Phase-1/Week5-Backend-Advance-Concept/blob/main/study_material/backend-documentation.md)
-- [Logic Nolep (IS Documentation) :exploding_head: ](https://github.com/RPN-Phase-1/Week5-Backend-Advance-Concept/blob/main/logic_nolep/ln-isDocumentation.md)
-- [Backend Deployment](https://github.com/RPN-Phase-1/Week5-Backend-Advance-Concept/blob/main/study_material/backend-deployment.md)
-- [Logic Nolep (deployment) :exploding_head: ](https://github.com/RPN-Phase-1/Week5-Backend-Advance-Concept/blob/main/logic_nolep/ln-deployment.md)
-- [Template Engine EJS](https://github.com/RPN-Phase-1/Week5-Backend-Advance-Concept/blob/main/study_material/template-engine-ejs.md)
-- [Group Project Nolep (Phase 1) :exploding_head: :exploding_head: :exploding_head: ](https://github.com/RPN-Phase-1/Week5-Backend-Advance-Concept/blob/main/logic_nolep/gpn-phase1.md)
+
 
 
 
