@@ -90,7 +90,7 @@ Phase 1 ini terdiri dari 5 minggu yang mencakup berbagai aspek pengembangan back
 - [Elysia vs Hono](https://github.com/RPN-Phase-1/Week5-Backend-Advance-Concept/blob/main/study_material/elysia%26hono.md)
 - [ORM Drizzle](https://github.com/RPN-Phase-1/Week5-Backend-Advance-Concept/blob/main/study_material/drizzle-orm.md)
 - [Websocket (project)](https://github.com/RPN-Phase-1/Week5-Backend-Advance-Concept/blob/main/study_material/websocket.md)
-- [Logic Nolep Chat Room](https://github.com/RPN-Phase-1/Week5-Backend-Advance-Concept/blob/main/logic_nolep/ln-ws-chat.md)
+- [Logic Nolep Chat Room  :exploding_head: ](https://github.com/RPN-Phase-1/Week5-Backend-Advance-Concept/blob/main/logic_nolep/ln-ws-chat.md)
 - Materi Microservices
 - Materi Payment Gateway (Stripe)
 - Movie Reservation System  (studi kasus microservices +  bun stacks, dan payment gateway stripe)
