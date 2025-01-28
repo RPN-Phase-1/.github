@@ -81,6 +81,8 @@ Phase 1 ini terdiri dari 5 minggu yang mencakup berbagai aspek pengembangan back
 - [Backend Deployment](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/study_material/backend-deployment.md)
 - [Logic Nolep (Deployment) :exploding_head: ](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/logic_nolep/ln-deployment.md)
 - [Template Engine EJS](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/study_material/template-engine-ejs.md)
+- [Logic Nolep Group Project 💀](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/logic_nolep/ln-group-project.md)
+
 
 
 ## Back End Advance Concept (Week5)
