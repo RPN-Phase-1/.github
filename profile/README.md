@@ -95,8 +95,6 @@ Phase 1 ini terdiri dari 5 minggu yang mencakup berbagai aspek pengembangan back
 - Materi Payment Gateway (Stripe)
 - Movie Reservation System  (studi kasus microservices +  bun stacks, dan payment gateway stripe)
 - LN (Microservices + bun stacks , payment gateway stripe)
-- [Group Project Nolep (Phase 1) :exploding_head: :exploding_head: :exploding_head: ](https://github.com/RPN-Phase-1/Week5-Backend-Advance-Concept/blob/main/logic_nolep/gpn-phase1.md)
-
 
 
 
