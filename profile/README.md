@@ -61,8 +61,10 @@ Phase 1 ini terdiri dari 5 minggu yang mencakup berbagai aspek pengembangan back
 
 ## Back End Development API (Week4)
 - [Backend Development API (teorikal) ](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/study_material/backend-dev-api.md)
-- [Mongoose (ODM)](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/study_material/mongoose.md)
 - [Prisma (next level ORM)](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/study_material/prisma-next-level-orm.md)
+- [Logic Nolep (Prisma Fancy Todo)](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/logic_nolep/ln-prisma-orm.md)
+- [Mongoose (ODM)](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/study_material/mongoose.md)
+- [Logic Nolep (Mongoose Fancy Todo](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/logic_nolep/ln-mongoose-odm.md)
 - [Logic Nolep (Inventory System) :exploding_head: ](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/logic_nolep/ln-inventory-sistem.md)
 - [Code Standarization](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/study_material/code-standarization.md)
 - [Inventory System Prisma](https://github.com/RPN-Phase-1/Week4-Backend-Server-API/blob/main/study_material/prisma-inventory-system.md)
